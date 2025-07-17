@@ -33,7 +33,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title(" TalkToVideo 🎥🧠💬 - MultiModel AI Agent for Video Summarization")
+st.title(" TalkToVideo 🎥🧠💬 - AI Agent for Video Summarization")
 st.header("Powered By Gemini 2.0 Flash")
 
 #create agent
