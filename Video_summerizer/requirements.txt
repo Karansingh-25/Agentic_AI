@@ -2,7 +2,7 @@ phidata
 python-dotenv
 yfinance
 packaging
-ddgs
+duckduckgo-search
 fastapi
 uvicorn
 groq
